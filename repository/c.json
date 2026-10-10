@@ -4849,6 +4849,17 @@
 			]
 		},
 		{
+			"name": "CSV Table",
+			"details": "https://github.com/MMSs/sublime-csv-table",
+			"labels": ["csv", "tsv", "formatting", "table"],
+			"releases": [
+				{
+					"sublime_text": ">=4107",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "CTags",
 			"details": "https://github.com/SublimeText/CTags",
 			"releases": [
